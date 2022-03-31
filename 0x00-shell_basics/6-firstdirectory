@@ -1,2 +1,4 @@
 #!/bin/bash
-ls
+cd /tmp
+mkdir my_first_directory
+
